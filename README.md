@@ -1,4 +1,4 @@
-## Hola programadores y programadoras👋
+## Hola programadores👋
 
 <p align="center">
     <img src="https://gpvc.arturio.dev/wilian-lgn" alt="vistas de perfil">
@@ -18,7 +18,7 @@
 
 ## Lenguajes y frameworks que domino
 
-<div>
+<p align="center">
  <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/bash.png">
  <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/python.jpeg">
  <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/php.png">
@@ -32,7 +32,7 @@
  <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/bootstrap.png">
  <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/jquery.png">
 
-</div>
+</p>
 
 ## Mis redes sociales
 
