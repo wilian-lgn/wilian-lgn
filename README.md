@@ -6,9 +6,13 @@
 
 <img alt="Coding" width="99%" src="https://fondosmil.com/fondo/32510.png">
 
-## Lenguajes que uso 
+## Lenguajes que domino
 
 <div>
- <img width="50px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/descarga.jpeg">
-
+ <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/bash.png">
+ <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/python.jpeg">
+ <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/php.png">
+ <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/javascript.png">
+ <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/html.png">
+ <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/css.png">
 </div>
