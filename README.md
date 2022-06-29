@@ -27,8 +27,8 @@
  <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/css.png">
  <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/sql.png">
  <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/git.png">
- <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/mysql.png">
- <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/nodejs.jpeg">
+ <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/mysql.jpeg">
+ <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/nodejs.png">
  <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/bootstrap.png">
  <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/jquery.png">
 
