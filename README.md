@@ -16,7 +16,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilian-lgn&theme=tokyonight_duo&hide_border=falso&date_format=j%2Fn%5B%2FY%5D&locale=es)](https://git.io/streak-stats)
 
-## Lenguajes que domino
+## Lenguajes y frameworks que domino
 
 <div>
  <img width="40px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/bash.png">
