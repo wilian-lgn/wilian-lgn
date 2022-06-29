@@ -9,5 +9,6 @@
 ## Lenguajes que uso 
 
 <div>
- <img width="19px" Src="descargar.jpeg">
+ <img width="50px" src="https://raw.githubusercontent.com/wilian-lgn/wilian-lgn/main/descarga.jpeg">
+
 </div>
